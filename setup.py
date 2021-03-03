@@ -25,7 +25,7 @@ setup(
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
     ],
-    packages=["src"],
+    packages=["imagedisplay"],
     include_package_data=True,
     install_requires=[
         "cv2", "argparser",
