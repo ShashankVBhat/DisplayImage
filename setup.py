@@ -28,7 +28,7 @@ setup(
     packages=["imagedisplay"],
     include_package_data=True,
     install_requires=[
-        "cv2", "argparser",
+        "cv2",
     ],
     entry_points={"console_scripts": ["imagedisplay=imagedisplay.__main__:main"]},
 )
