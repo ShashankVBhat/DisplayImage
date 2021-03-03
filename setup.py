@@ -17,7 +17,7 @@ setup(
     description="Display image",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/ShashankVBhat/DisplayImage",
     author="shashank",
     author_email="bhatshashank8@gmail.com",
     classifiers=[
