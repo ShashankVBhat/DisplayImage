@@ -12,4 +12,4 @@ You can install the image display from [PyPI](https://pypi.org/project/imagedisp
 
 The imagedisplay is a command line application, named `imagedisplay`. To use simply call the program:
 
-    $ python imagedisplay --image_path="path\to\image"
+    $ python -m imagedisplay --image_path="path\to\image"
